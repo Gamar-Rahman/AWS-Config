@@ -66,7 +66,7 @@ AWS Config provides the following capabilities:
 5. Sends notifications via Amazon SNS
 
 
----------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 📁 Repository Structure
 
 aws-config-guide/
@@ -84,6 +84,10 @@ aws-config-guide/
 │
 ├── diagrams/
 │   └── aws-config-architecture.jpg
+----------------------------------------------------------------------------------------------------------------
+
+📄 Gamar-Rahman
+Cybersecurity Analyst | cloud security | AI - ML | I build hands-on labs, automate security workflows.
 
 
 
