@@ -65,18 +65,6 @@ AWS Config provides the following capabilities:
 4. Evaluates resources using rules
 5. Sends notifications via Amazon SNS
 
-## Documentation
-
-- [Introduction](docs/introduction.md)
-- [How AWS Config Works](docs/how-aws-config-works.md)
-- [AWS Config Components](docs/aws-config-components.md)
-- [Use Cases](docs/use-cases.md)
-
----
-
-## Architecture
-[AWS Config Architecture](diagrams/aws-config-architecture.JPG)
-
 
 ---------------------------------------------------------------------------------------------------------------
 📁 Repository Structure
